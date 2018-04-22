@@ -6,7 +6,7 @@ No terminal, na raiz do usuário digite:
     $ cd 
     $ nano .bash_profile 
 ```
-Copie e cole o código que está no  " ` configs.txt ` ", salve e abra novamente o terminal.
+Copie e cole o código que está no  " ` .bash_profile ` ", salve e abra novamente o terminal.
 
 O terminal deverá ficar assim:
 
